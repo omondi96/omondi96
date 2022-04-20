@@ -36,7 +36,7 @@ Discord:
 - 👾 omondi#5502
 
 
-in process & high motivated ⏳
+in process & highly motivated ⏳
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
