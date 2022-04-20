@@ -26,7 +26,7 @@ EDUCATION:
 
 # Contact me
 
-...if you want to collaborate 😇 🤝 😇 
+if you want to collaborate 😇 🤝 😇 
 
 E-Mail:
 - 📧 omondisattmann@gmail.com
