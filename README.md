@@ -7,9 +7,9 @@ I'm currently learning coding  😳
 
 
 PROJECT INTERESTS:
--  AI- & Web 3.0 
+
 -  App Development (Social Media & Productivity)
--  Raspberry Pi 
+
 
  
 
